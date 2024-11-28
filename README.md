@@ -14,3 +14,4 @@ ByteTrack.py:
 
 - Use this file for a hassle-free environment setup.
 
+[ByteTrack Original Repo Link](https://github.com/ifzhang/ByteTrack/tree/main?tab=readme-ov-file)
